@@ -1,9 +1,5 @@
 # Pewlett-Hackard-Analysis
 ## Overview
-
-
-
-## Overview
 This analysis was done for the purpose of determining more information about how many employees in Pewlett-Hackard will be retiring soon. As initial analysis showed that there would be a large number of these retirees, it was deemed important to find out more information about this so-called "Silver Tsunami." The following queries were made:
 
 1. A table with all employees born from 1952 to 1955, and their titles
