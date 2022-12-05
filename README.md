@@ -4,7 +4,7 @@ This analysis was done for the purpose of determining more information about how
 
 1. A table with all employees born from 1952 to 1955, and their titles
 2. The same table, but only including the employees' current titles
-3. The number of retiring employees grouped by their title
+3. A table of the number of retiring employees grouped by their title
 3. A table with all employees born in 1965, as those employees are deemed the correct age for mentoring new employees.
 
 
